@@ -1,1 +1,1 @@
-This is oru first lab program that we are contrisbution in this foulder
+This is the first lab program that we are contrisbution in this folder
